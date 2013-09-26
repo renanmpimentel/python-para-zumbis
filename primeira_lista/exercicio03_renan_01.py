@@ -1,3 +1,4 @@
+#!/usr/bin/python
 dias = input("Digite os dias: ");
 horas = input("Digite as horas: ");
 minutos = input("Digite os minutos: ");

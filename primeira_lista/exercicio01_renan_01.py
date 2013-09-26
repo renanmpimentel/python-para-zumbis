@@ -1,3 +1,4 @@
+#!/usr/bin/python
 numero01 = input("Digite o primeiro numero: ");
 numero02 = input("Digite o segundo numero: ");
 

@@ -1,3 +1,4 @@
+#!/usr/bin/python
 metros = input("Digite o valor em mestros (m): ");
 milimetros = float(metros) * 1000;
 

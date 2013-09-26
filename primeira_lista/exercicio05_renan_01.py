@@ -1,3 +1,4 @@
+#!/usr/bin/python
 preco = input("Digite o valor da mercadoria: ");
 desconto = input("Valor do desconto (%): ");
 
